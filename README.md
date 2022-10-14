@@ -1,9 +1,17 @@
-**Made by:** Aya Osama
+**Made by:** Aya Osama 
+
+
 **Requested by:** Dr. Mohammed Elramly in Assignment4 (OOP course).
-**#First QT GUI project**
+
+
+.**#First QT GUI project**.
+
+
 **The idea of the project:**
-Text Editor which has many features to make. It link a file with QT and edit it with what you want on simple framework design
+Text Editor which has many features to make. It link a file with QT and edit it with what you want on simple framework design.
+
 **These features is:**
+
 1. Add new text to the end of the file. 
 2. Display the content of the file.
 3. Empty the file.
