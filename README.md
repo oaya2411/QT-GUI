@@ -1,7 +1,7 @@
 **Made by:** Aya Osama 
 
 
-**Requested by:** Dr. Mohammed Elramly in Assignment4 (OOP course).
+**Requested by:** Dr. Mohammed Elramly in Assignment4 (Structured Programming course).
 
 
 .**#First QT GUI project**.
